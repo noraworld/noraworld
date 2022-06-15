@@ -14,7 +14,7 @@ My name is Kosuke Aoki (青木 宏祐) and I’m Japanese. I’m born and raised
 | [DWANGO Co., Ltd.](https://en.dwango.co.jp/)                                                                                    | April 1, 2018                           | Ginza, Chuo-ku, Tokyo, Japan                       |
 | [UUUM Co., Ltd.](https://en.uuum.co.jp/)                                                                                        | July 1, 2021                            | Roppongi, Minato-ku, Tokyo, Japan                  |
 
-[^1]: Only available in Japanese
+[^1]: The external website is available in Japanese only
 
 ### Pronouns
 He/Him

@@ -10,9 +10,9 @@ My name is Kosuke Aoki (青木 宏祐) and I’m Japanese. I’m born and raised
 | My parents got divorced, I moved, and transferred schools | 2005 or 2006 (I don’t remember) | Tsuji, Shizuoka Shimizu-ku, Shizuoka, Japan        |
 | Junior high school                                        | April 1, 2008                   | Miyashirocho, Shizuoka Shimizu-ku, Shizuoka, Japan |
 | High school                                               | April 1, 2011                   | Sena, Shizuoka Aoi-ku, Shizuoka, Japan             |
-| Ritsumeikan University                                    | April 1, 2014                   | Minamikusatsu, Kusatsu, Shiga, Japan               |
-| DWANGO Co., Ltd.                                          | April 1, 2018                   | Ginza, Chuo-ku, Tokyo, Japan                       |
-| UUUM Co., Ltd.                                            | July 1, 2021                    | Roppongi, Minato-ku, Tokyo, Japan                  |
+| [Ritsumeikan University](http://en.ritsumei.ac.jp/)       | April 1, 2014                   | Minamikusatsu, Kusatsu, Shiga, Japan               |
+| [DWANGO Co., Ltd.](https://en.dwango.co.jp/)              | April 1, 2018                   | Ginza, Chuo-ku, Tokyo, Japan                       |
+| [UUUM Co., Ltd.](https://en.uuum.co.jp/)                  | July 1, 2021                    | Roppongi, Minato-ku, Tokyo, Japan                  |
 
 ### Pronouns
 He/Him

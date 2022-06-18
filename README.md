@@ -16,6 +16,23 @@ My name is Kosuke Aoki (青木 宏祐) and I’m Japanese. I’m born and raised
 
 [^1]: The external website is available in Japanese only
 
+### Links
+
+| Service   | Username                                                                   |
+| --------- | -------------------------------------------------------------------------- |
+| GitHub    | [@noraworld](https://github.com/noraworld)                                 |
+| Qiita     | [@noraworld](https://qiita.com/noraworld) [^1]                             |
+| Zenn      | [@noraworld](https://zenn.dev/noraworld) [^1]                              |
+| Mastodon  | [@noraworld](https://mastodon.noraworld.com/@noraworld) [^2]               |
+| Keybase   | [@noraworld](https://keybase.io/noraworld)                                 |
+| Twitter   | [@noraworld_com](https://twitter.com/noraworld_com) [^2]                   |
+| Instagram | [@noraworld_com](https://www.instagram.com/noraworld_com/)                 |
+| YouTube   | [noraworld](https://www.youtube.com/channel/UC-MIg05NN5mBsZE8lPdWT8Q) [^2] |
+
+[^2]: The external website is mainly available in Japanese
+
+My mother tongue is Japanese, but you can also feel free to get in touch with me in English.
+
 ### Pronouns
 He/Him
 

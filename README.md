@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kosuke Aoki (青木 宏祐) and I’m Japanese. I’m born and raised in Japan.
+My name is Kosuke Aoki (青木 宏祐) and I’m Japanese. I was born and raised in Japan.
 
 ### Personal History
 

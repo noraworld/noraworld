@@ -32,7 +32,7 @@ I was born and raised in Shizuoka prefecture. It is famous for Mt. Fuji, which i
 
 [^2]: The external website is mainly available in Japanese
 
-My mother tongue is Japanese, but you can also feel free to get in touch with me in English.
+My native language is Japanese, but you can also feel free to get in touch with me in English.
 
 ### Pronouns
 He/Him

@@ -24,7 +24,7 @@ I was born and raised in Shizuoka prefecture. It is famous for Mt. Fuji, which i
 | GitHub    | [@noraworld](https://github.com/noraworld)                                 |
 | Qiita     | [@noraworld](https://qiita.com/noraworld) [^1]                             |
 | Zenn      | [@noraworld](https://zenn.dev/noraworld) [^1]                              |
-| Mastodon  | [@noraworld](https://mastodon.noraworld.com/@noraworld) [^2]               |
+| Mastodon  | [@noraworld](https://mastodon.social/@noraworld) [^2]                      |
 | Keybase   | [@noraworld](https://keybase.io/noraworld)                                 |
 | Twitter   | [@noraworld_com](https://twitter.com/noraworld_com) [^2]                   |
 | Instagram | [@noraworld_com](https://www.instagram.com/noraworld_com/)                 |

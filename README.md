@@ -22,12 +22,12 @@ I was born and raised in Shizuoka prefecture. It is famous for Mt. Fuji, which i
 | Service   | Username                                                                   |
 | --------- | -------------------------------------------------------------------------- |
 | GitHub    | [@noraworld](https://github.com/noraworld)                                 |
+| Keybase   | [@noraworld](https://keybase.io/noraworld)                                 |
 | Twitter   | [@noraworld_com](https://twitter.com/noraworld_com) [^2]                   |
 | Mastodon  | [@noraworld](https://mastodon.social/@noraworld) [^2]                      |
 | Instagram | [@noraworld_com](https://www.instagram.com/noraworld_com/)                 |
 | Threads   | [@noraworld_com](https://www.threads.net/@noraworld_com)                   |
 | YouTube   | [noraworld](https://www.youtube.com/channel/UC-MIg05NN5mBsZE8lPdWT8Q) [^2] |
-| Keybase   | [@noraworld](https://keybase.io/noraworld)                                 |
 | Qiita     | [@noraworld](https://qiita.com/noraworld) [^1]                             |
 | Zenn      | [@noraworld](https://zenn.dev/noraworld) [^1]                              |
 

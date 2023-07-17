@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kosuke Aoki (青木 宏祐) and I’m Japanese. I was born and raised in Japan.
+My name is Kosuke Aoki (Japanese: 青木 宏祐, pronunciation: `/ˈkoʊskeɪ/`, KOH-skay) and I’m Japanese. I was born and raised in Japan.
 
 ### Personal History
 I was born and raised in Shizuoka prefecture. It is famous for Mt. Fuji, which is the highest mountain in Japan, and is located two prefectures away from Tokyo. I moved to Shiga prefecture, which is next to Kyoto, to go to university when I was 18 years old. I have lived alone from then on. After graduating from university, I moved to Tokyo for work, and I have lived there for more than four years.
